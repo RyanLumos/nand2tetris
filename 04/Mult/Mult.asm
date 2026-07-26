@@ -7,6 +7,8 @@
 // (R0, R1, R2 refer to RAM[0], RAM[1], and RAM[2], respectively.)
 // The algorithm is based on repetitive addition.
 
+//Method 2: Bitwise multiplication
+
 // R2 = 0, mask = 1, shifted_R0 = R0
 @2
 M=0
