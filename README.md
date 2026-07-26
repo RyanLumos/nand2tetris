@@ -1,6 +1,6 @@
 # Nand2Tetris
 
-My solutions and projects for the [**Nand2Tetris** course (*The Elements of Computing Systems*)](https://www.nand2tetris.org/). 
+My solutions for the [**Nand2Tetris** course (*The Elements of Computing Systems*)](https://www.nand2tetris.org/). 
 
 ## Progress
 
